@@ -12,7 +12,7 @@
     "test": "eslint public/js/src",
     "watch": "webpack -w"
   },
-  "author": "Dan Dart <npm@dandart.co.uk>",
+  "author": "Ember Dart <npm@emberdart.co.uk>",
   "license": "AGPL-3.0",
   "dependencies": {
     "@snyk/protect": "^1.1294.0",
